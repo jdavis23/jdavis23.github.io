@@ -203,6 +203,7 @@ a:hover {
 }
 .masthead a {
   color: #fff;
+  text-decoration: underline; 
 }
 
 /* Footer area of masthead */
