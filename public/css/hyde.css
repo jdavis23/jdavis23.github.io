@@ -172,7 +172,7 @@ img {
 a {
   font-weight: 600;
   color: #222;
-  text-decoration: none;
+  text-decoration: underline;
 }
 a:hover {
   text-decoration: underline;
